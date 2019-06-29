@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="875e0df2-15de-4edf-95e1-e7fb7fcf5dff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/assets/css/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/default/assets/css/components.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/assets/css/components.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/default/assets/css/components.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/default/assets/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/assets/css/layout.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/default/assets/css/layout.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_1/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_1/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_1/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_1/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_2/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_2/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_2/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_2/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_3/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_3/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_3/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_3/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_4/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_4/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_4/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_4/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_5/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_5/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_5/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/scss/layouts/layout_5/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/assets/css/bootstrap_limitless.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/material/assets/css/bootstrap_limitless.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/assets/css/components.css" beforeDir="false" afterPath="$PROJECT_DIR$/material/assets/css/components.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/assets/css/components.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/material/assets/css/components.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/material/assets/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/assets/css/layout.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/material/assets/css/layout.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_1/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_1/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_1/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_1/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_2/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_2/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_2/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_2/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_3/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_3/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_3/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_3/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_4/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_4/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_4/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_4/material/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_5/default/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_5/default/variables/_variables-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_5/material/variables/_variables-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/scss/layouts/layout_5/material/variables/_variables-custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/default/main_assets/images/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/default/main_assets/images/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/material/main_assets/images/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/material/main_assets/images/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/material/sidebar_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/material/sidebar_main.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,38 +17,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/material/sidebar_main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="513" column="22" lean-forward="true" selection-start-line="513" selection-start-column="22" selection-end-line="513" selection-end-column="22" />
+            <state relative-caret-position="304">
+              <caret line="275" column="30" lean-forward="true" selection-start-line="275" selection-start-column="30" selection-end-line="275" selection-end-column="30" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/default/alpaca_controls.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/material/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="1111" selection-start-line="1111" selection-end-line="1111" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -90,6 +41,8 @@
       <find>Limitless - Responsive Web Application Kit by Eugene Kopyov</find>
       <find>logo_light</find>
       <find>../../../../../../global_assets</find>
+      <find>.navbar-dark .active&gt;.navbar-nav-link,</find>
+      <find>image.png</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -107,8 +60,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/default/sidebar_main.html" />
-        <option value="$PROJECT_DIR$/material/sidebar_main.html" />
         <option value="$PROJECT_DIR$/material/assets/css/bootstrap_limitless.min.css" />
+        <option value="$PROJECT_DIR$/material/sidebar_main.html" />
       </list>
     </option>
   </component>
@@ -132,6 +85,24 @@
               <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="main_assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="main_assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -147,8 +118,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/material/main_assets/images" />
       <recent name="$PROJECT_DIR$/default/main_assets/images" />
+      <recent name="$PROJECT_DIR$/material/main_assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/material" />
@@ -179,17 +150,18 @@
       <updated>1561766981224</updated>
       <workItem from="1561766988336" duration="960000" />
       <workItem from="1561780456133" duration="1204000" />
-      <workItem from="1561783816642" duration="3321000" />
+      <workItem from="1561783816642" duration="3724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5485000" />
+    <option name="totallyTimeSpent" value="5888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="740" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -201,7 +173,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.098169714" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.40266222" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -234,22 +206,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/material/sidebar_main.html">
+    <entry file="file://$PROJECT_DIR$/default/alpaca_controls.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="513" column="22" lean-forward="true" selection-start-line="513" selection-start-column="22" selection-end-line="513" selection-end-column="22" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/default/alpaca_controls.html">
+    <entry file="file://$PROJECT_DIR$/material/main_assets/images/image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/sidebar_main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="304">
+          <caret line="275" column="30" lean-forward="true" selection-start-line="275" selection-start-column="30" selection-end-line="275" selection-end-column="30" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
